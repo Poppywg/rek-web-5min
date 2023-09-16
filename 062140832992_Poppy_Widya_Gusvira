@@ -1,0 +1,46 @@
+Kelebihan dan Kekurangan bahasa pemrograman php versi 7
+KELEBIHAN:
+1. Mudah Dipelajari
+    ini juga masuk ke kelas entry level sehingga orang awam sekali pun bisa mempelajarinya. Apalagi banyak sekali tutorial gratis yang bisa didapatkan di internet.
+2. Pengembangan Produk Berjalan Cepat
+    PHP memiliki kemampuan untuk membuat program atau website berjalan dengan lebih mudah. Anda tidak perlu membuat semua dari awal. Ada beberapa library yang dipakai untuk membuat program secara cepat.
+3. Program yang Ringkas
+    PHP dikenal sebagai program yang cukup ringkas dalam proses pengembangannya. Maksud ringkas di sini adalah mulai dari proses unduh sampai instalasi berjalan dengan cepat. Selain itu, dalam proses pengembangan dan mencoba website tidak butuh waktu kompilasi yang lama.
+4. Program Open Source
+    PHP adalah bahasa pemrograman jenis open source. Artinya siapa saja bisa menggunakan bahasa ini untuk membuat aplikasi atau website. Pengembang utama dari PHP tidak akan meminta semacam loyalty atau biaya lain kalau ingin menggunakan program ini.
+5. Proses Upgrade yang Mudah
+    Misal PHP memiliki versi anyar, kalau ingin melakukan upgrade pada aplikasi atau website yang sudah dibuat sebelumnya, proses bisa berjalan otomatis. Anda tidak perlu membuka kodenya lagi dan melakukan proses kompilasi.
+6. Komunitas yang Besar
+    Komunitas yang dimiliki oleh PHP cukup besar. Tidak hanya di dalam negeri saja. Komunitas di luar negeri justru lebih banyak. Dari komunitas ini, Anda bisa belajar lebih banyak tentang PHP dan beberapa hal penting yang ada di sana.
+7. Banyak Peluang Pekerjaan
+    PHP dipakai di banyak website dan pembuatan aplikasi. Efeknya, proyek yang berhubungan dengan PHP jumlahnya ada banyak.
+
+KEKURANGAN:
+1. Persaingan Ketat
+    Persaingan yang ketat terjadi di komunitas PHP, khususnya yang berhubungan dengan pekerjaan. Karena mudah dipelajari dan siapa saja bisa melakukannya, akan sulit kalau kemampuan Anda masih pas-pasan. Itulah kenapa Anda disarankan untuk terus melakukan upgrade skill.
+2. Mudah Ditiru Orang Lain
+    Sifat interpreter yang dimiliki oleh PHP membuatnya jadi mudah diintip kode yang ada di dalamnya. Setelah diintip, orang lain bisa menggunakannya untuk membuat program baru dengan beberapa modifikasi yang ada di dalamnya.
+
+
+Kelebihan dan Kekurangan bahasa pemrograman php versi 8
+KELEBIHAN:
+1. Kompiler JIT (Just In Time)
+     JIT Compiler yang seharusnya meningkatkan kinerja secara signifikan. PHP tidak dikompilasi, tetapi diinterpretasikan baris demi baris. JIT (Just in Time) bekerja dengan mengkompilasi bagian-bagian kode selama runtime
+2. JSON extension always activated
+     JSON adalah fitur yang yang amat penting terlebih dalam format data.JSON hadir dalam PHP 8 dengan fungsi yang lebih baik lagi dan memudahkan anda dalam melakukan pengembangan website
+3. Union Types
+    Union Types atau yang biasa anda kenal dengan C / C ++, TypeScript atau Haskell. Dalam PHP 8 tipe tipe tersebut dapat anda gunakan menjadi satu kesatuan dengan hanya menggunakan satu PHP.
+4. WeakMap
+    WeakMaps adalah salah satu fitur yang dapat anda gunakan untuk kebutuhan anda dalam menghapus sebuah objek yang datang dari cache yang memang mereferensikan kelan tersebut. 
+    Hal ini tentu akan mengarahkan anda pada penanganan objek yang dapat menghemat sumber daya.WeakMap sendiri telah ditambahkan dalam PHP 8 yang dapat anda gunakan sebagai salah satu fitur andalan
+
+KEKURANGAN:
+1. kompatibilitas dengan versi sebelumnya
+    kode yang ditu;lis untuk nversi PHP sebelumnya mungkin memerlukan penyesuaian untuk kompibilitas dengan PHP 8. perubahan dalam sistem tipe data perilaku bahasa mungkin memerlukan wqaktu untuk dimengerti dan diadopsi
+2. tidak semua ekstensi mendukung PHP 8
+    meskipun inti bahasa PHP mendukung banyak perubahan, beberapa ekstensi dan pustakan mungkin belum sepenuhnya kompatibel atau diperbaharui untuk mendukung PHP 8.
+3. diperlukan perubahan dalam kode
+    pembaruan ke PHP 8 mungkin memerlukan perubahan dalam kode yang ada untuk mengikuti perubahan sintaks dan perilaku bahasa yang diperkenalkan oleh versi ini
+
+
+
